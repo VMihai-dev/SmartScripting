@@ -64,8 +64,8 @@ void CharClassifier::setUp() {
     tkMap['_'] = LETTER;
 
     //add all digits to the map, using char as map takes a char
-    for (char n = '0'; n <= 9; n++) {
-        tkMap[n] = DIGIT;
+    for (int n = 0; n <= 9; n++) {
+        tkMap[(char)n] = DIGIT; // TODO: try without casting char ?? 
     }
 
     //TO DO:

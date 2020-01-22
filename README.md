@@ -1,4 +1,8 @@
+
+
 <h1>SMART SCRIPTTING</h1>
+
+<h3> JUST REALIZE THE RABBITHOLE I GOT MYSELF INTO, WILL COME BACK TO THE PROJECT AFTER SOME TIME, PROMISE </h3>
 
 I am trying to build up a new programming language with the purpose of learning and maybe creating something cool.
 
